@@ -1,0 +1,16 @@
+{
+  "name": "fetweek3",
+  "version": "1.0.0",
+  "description": "Bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
